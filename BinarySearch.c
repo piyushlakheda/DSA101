@@ -20,7 +20,6 @@ int BinarySearch ( int arr[], int size, int element){
        }
    }
    return -1;
-
 }
 
 int main(){
